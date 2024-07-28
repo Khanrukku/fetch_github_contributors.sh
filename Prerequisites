@@ -1,0 +1,3 @@
+sudo apt-get install jq   # For Debian/Ubuntu
+brew install jq           # For macOS using Homebrew
+
